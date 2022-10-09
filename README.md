@@ -1,2 +1,1 @@
 # laravel-boilerplate
-# laravel-boilerplate
