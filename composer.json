@@ -1,5 +1,5 @@
 {
-    "name": "ragajllivr/boilerplate",
+    "name": "parth1895/ragajllivr-boilerplate",
     "description": "This package consider all kinda boilerplate for any project definations.",
     "type": "composer-plugin",
     "license": "MIT",
@@ -12,5 +12,13 @@
     "minimum-stability": "stable",
     "require": {
         "symfony/console": "^6.1"
+    },
+    "bin": [
+        "bin/demo"
+    ],
+    "autoload": {
+        "psr-4": {
+            "Parth1895\\RagajllivrBoilerplate\\": "src/"
+        }
     }
 }

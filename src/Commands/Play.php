@@ -1,6 +1,7 @@
 <?php
 
-namespace ragajllivrBoilerplate\Commands;
+namespace Parth1895\RagajllivrBoilerplate\Commands;
+
 
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
