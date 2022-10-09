@@ -9,11 +9,11 @@ if (! is_file(sprintf('%s/vendor/autoload.php', $root))) {
 
 require sprintf('%s/vendor/autoload.php', $root);
 
-use Parth1895\RagajllivrBoilerplate\Commands\Play;
+use Parth1895\RagajllivrBoilerplate\Commands\SetupProject;
 use Symfony\Component\Console\Application;
 
 $application = new Application();
 
-$application->add(new Play());
+$application->add(new SetupProject());
 
 $application->run();
