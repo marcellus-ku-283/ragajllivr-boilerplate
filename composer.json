@@ -1,5 +1,5 @@
 {
-    "name": "laravel/boilerplate",
+    "name": "ragajllivr/boilerplate",
     "description": "This package consider all kinda boilerplate for any project definations.",
     "type": "composer-plugin",
     "license": "MIT",
