@@ -1,0 +1,14 @@
+{
+    "name": "laravel/boilerplate",
+    "description": "This package consider all kinda boilerplate for any project definations.",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Parth Gajjar",
+            "email": "gajjar.parth1811@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
